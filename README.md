@@ -1,8 +1,8 @@
-# TITLE ONE
-this is lowercase content under the title.
+# .net8 版本
+請先確定安裝好對應的SDK版本
 
-## TITLE TWO
-here is another lowercase description.
+## 確定mssql 
+1.從專案裡面的Data資料，有建立好結構和資料。請先創好一個資料庫，在把資料倒入。
 
-### TITLE THREE
-even smaller section, still lowercase text.
+### 檢查功能前，請替換連線字串
+1.appsettings.json 替換成剛才登入的帳號/密碼
